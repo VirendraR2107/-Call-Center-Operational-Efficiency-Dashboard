@@ -9,14 +9,17 @@ This project presents a Power BI dashboard designed to analyze and visualize key
 ## Table of Contents
 
 - [Home](![Home page](https://github.com/user-attachments/assets/6a39e131-4e0d-4bd8-9e1a-69b63bf834f8)
-)
-- [Agent Performance](#agent-performance)
-- [IVR Interaction Behavior](#ivr-interaction-behavior)
-- [Escalation](#escalation)
-- [Findings](#findings)
-- [Infrastructure](#infrastructure)
 
----
+
+- [Agent Performance](![Agent Performance page](https://github.com/user-attachments/assets/f4160462-69d9-4557-b5c1-a2e1cd3a04e2)
+
+)
+- [IVR Interaction Behavior](#![IVR Interaction Page](https://github.com/user-attachments/assets/f2178c32-5f5a-4107-a6e3-ccc330875fd4)
+
+
+- [Escalation](#![Escalation_page](https://github.com/user-attachments/assets/1c0a1d19-b63e-4880-a530-5a684c1dcef1)
+)
+)
 
 ## Home
 
@@ -102,10 +105,8 @@ Key observations:
 - **Reason**: High computing power requirement — local laptop is insufficient.
 - **AWS Services Used**:
   - **EC2**: Hosting Power BI.
-  - **Redshift, Glue, Athena, Lambda**: Target services for expansion.
 - **Database**: MySQL
-  - Connected via ODBC.
-  - Initial SQL queries helped understand data structure.
+  .- Initial SQL queries helped understand data structure.
   - Two tables linked via primary key.
 - **Data**: Recent 1,000 IVR call records.
 
@@ -114,6 +115,21 @@ Key observations:
 ## Conclusion
 
 This Power BI project helps stakeholders understand performance at multiple levels — from individual agents to system-wide IVR efficiency. With clear visuals and interactivity, it allows data-driven decisions for improving customer service operations.
+
+
+---
+
+## 🙏 Special Thanks
+
+Special thanks to **AWS** for providing $300 in credits, which allowed me to explore their cloud services in depth. This support helped me focus on AWS data analytics tools such as:
+
+- **Glue**
+- **Lambda**
+- **Athena**
+- **Redshift**
+- **S3**
+
+I primarily used **EC2** to run high-performance Power BI workloads that my local system couldn't handle efficiently.
 
 ---
 
