@@ -9,8 +9,11 @@ This project presents a Power BI dashboard designed to analyze and visualize key
 Call Center Operational Efficiency Analysis
 💼 Business Problem Statement
 The company aims to enhance the operational efficiency of its call center by closely analyzing agent performance, call handling quality, and customer interactions with the IVR system. The primary objective is to identify patterns and factors contributing to high call drop rates and escalations, thereby enabling targeted improvements that lead to better customer satisfaction, reduced operational costs, and improved first-call resolution rates.
+
 Focus Areas
+
 Agent Performance
+
 ·	Call volume handled per agent
 ·	Average handling time (AHT)
 ·	Escalation rate per agent
