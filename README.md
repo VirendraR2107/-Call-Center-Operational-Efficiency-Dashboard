@@ -138,8 +138,6 @@ I primarily used **EC2** to run high-performance Power BI workloads that my loca
 
 ## Author
 
-**[Your Name]**  
-_Data Analyst | AWS Enthusiast | Power BI Developer_
+**Virendra Raikwar**  
 
----
 
