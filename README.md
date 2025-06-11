@@ -4,7 +4,31 @@
 
 This project presents a Power BI dashboard designed to analyze and visualize key metrics related to a customer service call center, including agent performance, IVR interactions, and escalation trends. The data is sourced from a MySQL database and analyzed through Power BI, running on an AWS EC2 instance for performance efficiency.
 
----
+## Problem Statement
+
+Call Center Operational Efficiency Analysis
+💼 Business Problem Statement
+The company aims to enhance the operational efficiency of its call center by closely analyzing agent performance, call handling quality, and customer interactions with the IVR system. The primary objective is to identify patterns and factors contributing to high call drop rates and escalations, thereby enabling targeted improvements that lead to better customer satisfaction, reduced operational costs, and improved first-call resolution rates.
+Focus Areas
+Agent Performance
+·	Call volume handled per agent
+·	Average handling time (AHT)
+·	Escalation rate per agent
+·	Customer satisfaction scores (if available)
+Call Handling Quality
+·	Call duration distribution
+·	Hold times and transfer rates
+·	Call resolution status (Resolved, Escalated, Dropped)
+IVR System Behavior
+·	Drop-off points within IVR menu
+·	Time spent navigating IVR before agent connection
+·	Menu option selection trends
+Business Goals
+·	Reduce call drop rate by optimizing IVR structure and agent availability.
+·	Decrease escalation rate by improving agent training and first-contact resolution.
+·	Improve customer experience by identifying pain points in the call journey.
+
+
 
 ## Table of Contents
 
