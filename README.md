@@ -42,17 +42,21 @@ The company aims to enhance the operational efficiency of its call center by clo
 
 ## Table of Contents
 
-- [Home](![Home page](https://github.com/user-attachments/assets/6a39e131-4e0d-4bd8-9e1a-69b63bf834f8)
+- [Home]
+- (![Home page](https://github.com/user-attachments/assets/6a39e131-4e0d-4bd8-9e1a-69b63bf834f8)
 
 
-- [Agent Performance](![Agent Performance page](https://github.com/user-attachments/assets/f4160462-69d9-4557-b5c1-a2e1cd3a04e2)
+- [Agent Performance]
+- (![Agent Performance page](https://github.com/user-attachments/assets/f4160462-69d9-4557-b5c1-a2e1cd3a04e2)
 
 )
-- [IVR Interaction Behavior](#![IVR Interaction Page](https://github.com/user-attachments/assets/f2178c32-5f5a-4107-a6e3-ccc330875fd4)
+- [IVR Interaction Behavior]
+- (#![IVR Interaction Page](https://github.com/user-attachments/assets/f2178c32-5f5a-4107-a6e3-ccc330875fd4)
 - 
 
 
-- [Escalation](#![Escalation_page](https://github.com/user-attachments/assets/1c0a1d19-b63e-4880-a530-5a684c1dcef1)
+- [Escalation]
+- (#![Escalation_page](https://github.com/user-attachments/assets/1c0a1d19-b63e-4880-a530-5a684c1dcef1)
 )
 
 
