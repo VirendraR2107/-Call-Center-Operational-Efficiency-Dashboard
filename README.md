@@ -19,7 +19,6 @@ This project presents a Power BI dashboard designed to analyze and visualize key
 
 - [Escalation](#![Escalation_page](https://github.com/user-attachments/assets/1c0a1d19-b63e-4880-a530-5a684c1dcef1)
 )
-)
 
 ## Home
 
